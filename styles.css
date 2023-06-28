@@ -4,6 +4,7 @@ body {
     margin: 8px;
     background-color: #999;
     font-size: 100%;
+    align-items: center;
 }
 
 header,
@@ -23,4 +24,14 @@ testP.funParagraph {
 
 img {
     align-items: center;
+    width: 400px;
+    height: auto;
+}
+
+footer {
+    text-align:center;
+    padding: 3em;
+}
+figcaption {
+    font-style: italic;
 }
