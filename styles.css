@@ -1,16 +1,18 @@
 body {
     width: 100%;
     max width; 1024 px;
-    margin: 8px;
+    margin: 10px;
     background-color: #999;
     font-size: 100%;
-    align-items: center;
+    padding: 10px;
+    
 }
 
 header,
 main,
 footer {
     background-color: #green;
+   text-align: center;
 }
 
 #mainHeading {
@@ -18,12 +20,12 @@ footer {
 }
 
 testP.funParagraph {
-    color:rgb(8, 94, 8);
+    color:rgb(2, 47, 2);
 
 }
 
 img {
-    align-items: center;
+    text-align: center;
     width: 400px;
     height: auto;
 }
@@ -34,4 +36,13 @@ footer {
 }
 figcaption {
     font-style: italic;
+}
+
+#mainImg {
+    width:900px;
+    height: auto;
+}
+
+h1, h3 {
+    text-align: center;
 }
