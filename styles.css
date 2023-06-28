@@ -8,6 +8,10 @@ body {
     
 }
 
+#funParagraph {
+    color: green;
+}
+
 header,
 main,
 footer {
@@ -16,13 +20,10 @@ footer {
 }
 
 #mainHeading {
-    color: rgb(105, 8, 8);
+    color: red;
 }
 
-testP.funParagraph {
-    color:rgb(2, 47, 2);
 
-}
 
 img {
     text-align: center;
