@@ -1,1 +1,49 @@
-/* Write your CSS here! */
+body {
+    width: 100%;
+    max-width: 1024px;
+    margin: 10px;
+    background-color: #999;
+    font-size: 100%;
+    padding: 10px;
+    
+}
+
+#funParagraph {
+    color: green;
+}
+
+header,
+main,
+footer {
+    background-color: green;
+   text-align: center;
+}
+
+#mainHeading {
+    color: red;
+}
+
+
+
+img {
+    text-align: center;
+    width: 400px;
+    height: auto;
+}
+
+footer {
+    text-align:center;
+    padding: 3em;
+}
+figcaption {
+    font-style: italic;
+}
+
+#mainImg {
+    width:900px;
+    height: auto;
+}
+
+h1, h3 {
+    text-align: center;
+}
