@@ -1,6 +1,6 @@
 body {
     width: 100%;
-    max width; 1024 px;
+    max-width: 1024px;
     margin: 10px;
     background-color: #999;
     font-size: 100%;
@@ -15,11 +15,11 @@ body {
 header,
 main,
 footer {
-    background-color: #green;
+    background-color: green;
    text-align: center;
 }
 
-header {
+#mainHeading {
     color: red;
 }
 
